@@ -1,0 +1,40 @@
+p,li {
+    color: rgb(255, 255, 255);
+  }
+  h1 {
+    font-size: 60px;
+    text-align: left;
+    text-shadow: 0ch;
+  }
+  
+  p, li {
+    font-size: 30px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+  }
+  html {
+    background-color: rgb(164, 134, 177);
+  }
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(225, 165, 209);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #f2f9ef;
+    text-shadow: 3px 3px 5px black;
+  }
+  img {
+    width: 1000px;
+    display: block;
+  }
+  
+  
+  
+  
+  
+  
